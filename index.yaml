@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cmakapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-12-22T19:02:31.311333802Z"
+    description: A Helm chart for Kubernetes
+    digest: b87e51ee095d98c302cf742062247bfb2dac88363367c17e67d26e7985373cb1
+    name: cmakapp
+    type: application
+    urls:
+    - https://piyushkamboj.github.io/cmak-operator/cmakapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-12-22T19:02:31.310554675Z"
