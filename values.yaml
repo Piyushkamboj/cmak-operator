@@ -47,7 +47,7 @@ cmak:
   clusters:
     - name: "cluster-dev"
       curatorConfig:
-        zkConnect: "my-cluster-kafka-0:2181,my-cluster-kafka-1:2181,my-cluster-kafka-2:2181"
+        zkConnect: "my-cluster-zookeeper-0:2181,my-cluster-zookeeper-1:2181,my-cluster-zookeeper-2:2181"
 
 reconcile:
   schedule: "*/2 * * * *"
